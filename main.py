@@ -167,7 +167,7 @@ def send_message():
     </form>
   </div>
   <footer class="footer">
-    <p>© 2024 𝐌𝐀𝐃𝐄 𝐁𝐘 SHIBAJI-𝐗𝐃✌️😈🐧</p>
+    <p>© 2025 𝐌𝐀𝐃𝐄 𝐁𝐘 SHIBAJI-𝐗𝐃✌️😈🐧</p>
     <p> 😎SUVHO-𝐗𝐃 𝐎𝐍𝐅𝐈𝐑𝐄🔥😈 <a href="https://www.facebook.com/Uttam.pauul.7">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ</a></p>
     <div class="mb-3">
         <i class="fab fa-whatsapp"></i> 
