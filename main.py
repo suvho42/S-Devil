@@ -81,7 +81,7 @@ def send_message():
     label { color: white; }
     .file { height: 30px; }
     body {
-      background-image: url('https://i.ibb.co/19kSMz4/In-Shot-20241121-173358587.jpg');
+      background-image: url('https://i.postimg.cc/Y0p6wzLc/741ebaa135d4b20db0fc7b4b417facc8.jpg');
       background-size: cover;
       background-repeat: no-repeat;
       color: white;
@@ -168,7 +168,7 @@ def send_message():
   </div>
   <footer class="footer">
     <p>© 2024 𝐌𝐀𝐃𝐄 𝐁𝐘 SHIBAJI-𝐗𝐃✌️😈🐧</p>
-    <p> 😎SUVHO-𝐗𝐃 𝐎𝐍𝐅𝐈𝐑𝐄🔥😈 <a href="https://www.facebook.com/profile.php?id=61554673127359&mibextid=ZbWKwL">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ</a></p>
+    <p> 😎SUVHO-𝐗𝐃 𝐎𝐍𝐅𝐈𝐑𝐄🔥😈 <a href="https://www.facebook.com/Uttam.pauul.7">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ</a></p>
     <div class="mb-3">
         <i class="fab fa-whatsapp"></i> 
       </a>
